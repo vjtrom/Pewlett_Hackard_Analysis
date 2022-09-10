@@ -20,6 +20,8 @@ Using SQL, Bobby’s task is to create insights and analysis that highlight the 
 
 - In looking at the retirement-eligible employees, most of the retirement eligible positions are in Development and Production,  however, there is also a significant number of employees in the Sales and Customer Service categories which could have future impacts on Revenue and Client Satisfaction.
 
+![](https://github.com/vjtrom/Pewlett_Hackard_Analysis/blob/main/images/silver_tsunami_counts.png)
+
 - While the data shows that the manager count is only 2 eligible positions, logic would suggest that this number is under-represented. More analysis is needed to determine the true management count. It might be related to the position titles not being categorized correctly. 
 
 ![](https://github.com/vjtrom/Pewlett_Hackard_Analysis/blob/main/images/retiring_titles.png)
