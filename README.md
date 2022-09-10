@@ -22,6 +22,8 @@ Using SQL, Bobby’s task is to create insights and analysis that highlight the 
 
 - While the data shows that the manager count is only 2 eligible positions, logic would suggest that this number is under-represented. More analysis is needed to determine the true management count. It might be related to the position titles not being categorized correctly. 
 
+![](https://github.com/vjtrom/Pewlett_Hackard_Analysis/blob/main/images/retiring_titles.png)
+
 - The aggregate number of Engineers retiring, including Assistant Engineer, Engineer and Senior Engineer, represents 50% (half) of all the employees eligible for retirement. 
 
 - The mentorship program has different percentages of Engineering and Staff roles than the employees in those roles that are eligible for retirement. This means that more mentors might be needed in certain areas versus others, in order to align the resources with the position types of the retirees.  
